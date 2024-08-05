@@ -3,7 +3,7 @@
         <div>Bruh</div>
         <div>Bruh</div>
         <div>Bruh</div>
-        <button class="btn btn-primary">Start</button>
+        <button class="btn btn-primary min-h-2 h-8 ">Start</button>
     </div>
 </div>
 
