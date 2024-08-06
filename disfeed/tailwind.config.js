@@ -2,7 +2,12 @@
 export default {
   content: ['./src/**/*.{html,svelte,js,ts}'],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'noir': ['"acier-bat-noir"'],
+        'acier': ['"Author"']
+      }
+    },
   },
 
   daisyui: {
