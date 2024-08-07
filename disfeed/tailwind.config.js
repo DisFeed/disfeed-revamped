@@ -5,7 +5,7 @@ export default {
     extend: {
       fontFamily: {
         'noir': ['"acier-bat-noir"'],
-        'acier': ['"Author"']
+        'author': ['"Author"']
       }
     },
   },
